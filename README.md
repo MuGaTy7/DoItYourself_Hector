@@ -1,26 +1,27 @@
 # Do-it-yourselft-
 
 
-Regla1:
+Regla 1: Agregue como icono de página una imagen que contenga el escudo del Barça
 
-Regla
+Regla 2: Ponga en negrita a todos los jugadores del once inicial con la clase ya creada (jugador)
 
-Regla
+Regla 3: Los elementos h1 tendrán de fondo (background-color) el color crimson
 
-Regla
+Regla 4: Que los elementos de la lista tengan margen 0, relleno de 43% únicamente en la izquierda y el  fondo de color azul
 
-Regla
+Regla 5: Añade la imagen de los jugadores en sus respectivos elementos de la lista
 
-Regla
+Regla 6: Los elementos h2 estarán subrayados (text-decoration: underline)
 
-Regla
+Regla 7:El elemento body para cambiar el tipo de fuente del documento
 
-Regla
 
-Regla
+Regla 8: Los elementos h3 relleno de 20% únicamente a la derecha
 
-Regla
+Regla 9: Que el título de la página sea FCB.web
 
-Regla
+Regla 10: Los elementos img tendrán un border, amarillo 3px
 
-Regla
+Regla 11: Los elementos h4 color de fondo amarillo y relleno de 36%
+
+Regla 12: Los elementos b aplicar el color bluecyan 
