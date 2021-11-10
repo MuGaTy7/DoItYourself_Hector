@@ -25,3 +25,11 @@ Regla 10: Los elementos img tendrán un border, amarillo 3px
 Regla 11: Los elementos h4 color de fondo amarillo y relleno de 36%
 
 Regla 12: Los elementos b aplicar el color bluecyan 
+
+Regla 13: Los elementos ul tendrán un color de fondo verde con rbg
+
+Regla 14: Que el primer elemento p después de un h5 tengan un relleno de 3px, este subrayado y tenga de color de fondo lightgoldenrodyellow
+
+Regla 15: Que los elementos p que sean hijos directos de algún div tendrán padding-top 3px y margin-left 5px
+
+Regla 16: Los elemntos a de color purple 
