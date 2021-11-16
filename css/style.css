@@ -1,0 +1,57 @@
+.jugador {
+    color: aquamarine;
+}
+
+h1 {
+    background-color: crimson;
+}
+
+li {
+    margin: 0%;
+    padding-left: 43%;
+    background-color: blue;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+body {
+    color: green;
+}
+
+h3 {
+    padding-right: 20%;
+}
+
+img {
+    border: 100px;
+}
+
+h4 {
+    background-color: yellow;
+    padding: 36%;
+}
+
+b {
+    color: blueviolet;
+}
+
+ul {
+    background-color: brown;
+}
+
+ol p {
+    padding: 3px;
+    text-decoration: underline;
+    background-color: lightgoldenrodyellow;
+}
+
+div>p {
+    padding-top: 3px;
+    margin-left: 5px;
+}
+
+a {
+    color: purple;
+}
