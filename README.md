@@ -1,4 +1,4 @@
-# Do-it-yourselft-
+# Do-it-yourself-
 
 
 Regla 1: Agregue como icono de página una imagen que contenga el escudo del Barça
